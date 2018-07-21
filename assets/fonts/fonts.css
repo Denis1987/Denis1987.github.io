@@ -1,0 +1,155 @@
+
+@font-face {
+  font-family: 'Muller';
+  src: url('assets/fonts/MullerRegular.otf') format('opentype');
+  font-style: 400;
+  font-weight: normal;
+}
+
+
+@font-face {
+  font-family: 'Muller';
+  src: url('assets/fonts/MullerMedium.otf') format('opentype');
+  font-style: normal;
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: url('assets/fonts/MullerBold.otf') format('opentype');
+  font-style: normal;
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: url('assets/fonts/MullerExtraBold.otf') format('opentype');
+  font-style: normal;
+  font-weight: 800;
+}
+
+/*
+*/
+
+@font-face {
+  font-family: 'Muller';
+  src: url('assets/fonts/MullerBlackItalic.otf') format('opentype');
+  font-style: italic;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerLightItalic.otf') format('opentype');
+  font-style: italic;
+  font-weight: normal;
+}
+/*
+
+
+
+
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerBlack.otf') format('opentype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerBoldItalic.otf') format('opentype');
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerExtraBoldItalic.otf') format('opentype');
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerHeavy.otf') format('opentype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerHeavyItalic.otf') format('opentype');
+  font-style: italic;
+  font-weight: normal;
+}
+
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerLight.otf') format('opentype');
+  font-style: normal;
+  font-weight: lighter;
+}
+
+
+
+
+
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerMediumItalic.otf') format('opentype');
+  font-style: italic;
+  font-weight: medium;
+}
+
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerRegularItalic.otf') format('opentype');
+  font-style: italic;
+  font-weight: normal;
+}
+
+
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerThinItalic.otf') format('opentype');
+  font-style: normal;
+  font-weight: normal;
+}
+
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerUltraLight.otf') format('opentype');
+  font-style: normal;
+  font-weight: lighter;
+}
+
+
+
+@font-face {
+  font-family: 'Muller';
+  src: url('/assets/fonts/MullerUltraLightItalic.otf') format('opentype');
+  font-style: normal;
+  font-weight: lighter;
+}
+
+
+
+@font-face {
+  font-family: 'MullerNarrow';
+  src: url('/assets/fonts/MullerNarrow-ExtraBold.otf') format('opentype');
+  font-style: normal;
+  font-weight: bolder;
+}
+
+
+*/
