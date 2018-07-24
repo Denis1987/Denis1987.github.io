@@ -1,0 +1,67 @@
+@font-face {
+    font-family: 'SFUI';
+    src: url('assets/fonts/SFUIDisplay-Regular.ttf') format('ttf');
+    font-style: 400;
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family: 'SFUI';
+    src: url('assets/fonts/SFUIDisplay-Medium.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'SFUI';
+    src: url('assets/fonts/SFUIDisplay-Bold.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'SFUI';
+    src: url('assets/fonts/SFUIDisplay-Semibold.ttf') format('ttf');
+    font-style: normal;
+    font-weight: 800;
+}
+
+
+
+
+@font-face {
+    font-family: 'SFUI';
+    src: url('assets/fonts/SFUIDisplay-Regular.otf') format('opentype');
+    font-style: 400;
+    font-weight: normal;
+}
+
+
+@font-face {
+    font-family: 'SFUI';
+    src: url('assets/fonts/SFUIDisplay-Medium.otf') format('opentype');
+    font-style: normal;
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'SFUI';
+    src: url('assets/fonts/SFUIDisplay-Bold.otf') format('opentype');
+    font-style: normal;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: 'SFUI';
+    src: url('assets/fonts/SFUIDisplay-Semibold.otf') format('opentype');
+    font-style: normal;
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: 'SFUI';
+    src: url('assets/fonts/SFUIDisplay-Light.otf') format('opentype');
+    font-style: normal;
+    font-weight: 300;
+}
