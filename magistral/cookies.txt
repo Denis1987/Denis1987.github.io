@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+lishenieprav.su	TRUE	/	FALSE	1999999999	ipp_uid2	4EqCDZkZpVfLqUPi/B790fVqWeTx0uDLLcHMwmA==
+lishenieprav.su	TRUE	/	FALSE	1999999999	ipp_uid1	1533496485327
+lishenieprav.su	TRUE	/	FALSE	1999999999	rerf	AAAAAFtnTKWGHgzNAwOHAg==
+
