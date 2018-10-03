@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet">
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="assets/ui/jquery-ui.css">
+    <link href="assets/air-datepicker/dist/css/datepicker.min.css" rel="stylesheet" type="text/css">
+    <meta name="format-detection" content="telephone=no">
+    <title>Комильфо</title>
+    <meta name="description" content="#">
+</head>
+
+<body>
+    <!--   шапка -->
+    <header>
+        <section>
+            <div class="header">
+                <div class="header__logo">
+                    <img src="assets/img/logo.png" alt="logo">
+                </div>
+                <div class="header__menu">
+                    <ul>
+                        <li><a class="header__menu-tab" href="#">Клиенты</a></li>
+                        <li><a class="header__menu-tab selected" href="#">Доктора</a></li>
+                    </ul>
+                </div>
+                <div class="header__user-block">
+                    <div class="header__name">Евгения</div>
+                    <a href="#" class="header__user-img">
+                       <span class="header__img-block">
+                        <img src="assets/img/user_photo.png" alt="user-image">
+                       </span>
+                    </a>
+                    <div class="header__tultip-box">
+                        <div class="header__tultip">
+                            <a href="#">Редактировать</a>
+                            <a href="#">Выйти</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </header>
+
+
+
+    <div class="content">
+        <!--       вкладка клиента -->
+        <div class="client">
+            <section>
+                <div class="client__card">
+                    <div class="client__img-block">
+                        <div class="client__img"><input type="file"></div>
+                    </div>
+                    <div class="client__card-info">
+                        <div class="client__first-info">
+                            <div class="client__name">
+                                <div class="client__name-text">
+                                    <span id="client__name-item" class="client__name-item">Попова Александра Владимировна</span>
+                                    <input id="client__name-input" type="text" class="client__name-input">
+                                </div>
+                                <div class="client__name-after"></div>
+                            </div>
+
+                            <div class="client__last-visit">1 января 2016 в 12:00 последний визит у Евгении Журавлевой</div>
+                        </div>
+                        <div class="client__left">
+                            <div class="client__date">
+                                <div class="client__date-title">Дата рождения</div>
+                                <div class="client__date-info" id="client__date-info">
+                                    28 июня 1991
+                                </div>
+                                <div class="client__date-controls">
+                                    <select name="client__date-number" id="client__date-number">
+                                        <option value="01">01</option>
+                                        <option value="02">02</option>
+                                        <option value="03">03</option>
+                                        <option value="04">04</option>
+                                        <option value="05">05</option>
+                                        <option value="06">06</option>
+                                        <option value="07">07</option>
+                                        <option value="08">08</option>
+                                        <option value="09">09</option>
+                                        <option value="10">10</option>
+                                        <option value="11">11</option>
+                                        <option value="12">12</option>
+                                        <option value="13">13</option>
+                                        <option value="14">14</option>
+                                        <option value="15">15</option>
+                                        <option value="16">16</option>
+                                        <option value="17">17</option>
+                                        <option value="18">18</option>
+                                        <option value="19">19</option>
+                                        <option value="20">20</option>
+                                        <option value="21">21</option>
+                                        <option value="22">22</option>
+                                        <option value="23">23</option>
+                                        <option value="24">24</option>
+                                        <option value="25">25</option>
+                                        <option value="26">26</option>
+                                        <option value="27">27</option>
+                                        <option value="28">28</option>
+                                        <option value="29">29</option>
+                                        <option value="30">30</option>
+                                        <option value="31">31</option>
+                                    </select>
+                                    <select name="client__date-month" id="client__date-month">
+                                        <option value="января">01</option>
+                                        <option value="февраля">02</option>
+                                        <option value="марта">03</option>
+                                        <option value="апреля">04</option>
+                                        <option value="мая">05</option>
+                                        <option value="июня">06</option>
+                                        <option value="июля">07</option>
+                                        <option value="августа">08</option>
+                                        <option value="сентября">09</option>
+                                        <option value="октября">10</option>
+                                        <option value="ноября">11</option>
+                                        <option value="декабря">12</option>
+                                    </select>
+                                    <select name="client__date-year" id="client__date-year">
+                                        <option value="1991">1991</option><option value="1987">1987</option>
+                                        <option value="1991">1991</option><option value="1987">1987</option>
+                                        <option value="1991">1991</option><option value="1987">1987</option>
+                                        <option value="1991">1991</option><option value="1987">1987</option>
+                                    </select>
+                                </div>
+                            </div>
+                            <div class="client__adress">
+                                <div class="client__address-title">Адрес</div>
+                                <div class="client__address-info" id="client__address-info">Липецк, ул. Первомайская, 78, 407</div>
+                                <input type="text" id="client__address-input" class="client__address-input" name="client__address-input">
+                            </div>
+                        </div>
+                        <div class="client__right">
+                            <div class="client__contact">
+                                <div class="client__contact-title">Контактная информация</div>
+                                <div class="client__contact-info" id="client__contact-info">
+                                    +7(999) 999-99-99
+                                </div>
+                                <textarea name="client__contact-textarea" id="client__contact-textarea" class="client__contact-textarea"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+        <div class="comments">
+            <section>
+                <div class="comments__content">
+                    <div class="comments__visit-card">
+                        <div class="comments__textarea-block">
+                            <textarea id="comments__visit-headline" class="comments__visit-headline" placeholder="Какой результат посещения?"></textarea></div>
+                        <div class="comments__visit-controls">
+                            <div class="comments__visit-add">
+                                <input id="comments__visit-input" type="file">
+                            </div>
+                            <button id="comments__visit-btn btn" type="button" class="comments__visit-btn btn">Добавить</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="comments__calendar">
+                    <div class="comments__calendar-actually">
+                        <div id="datepicker-here" class="datepicker-here"></div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </div>
+
+    <div class="footer-container">
+        <footer>
+            <section>
+                <div class="footer">
+                    <div class="footer__title">© 2016 Медико-эстетический центр «Комильфо»</div>
+                    <div class="footer__dev-info">Разработка сайта - <a href="https://cubadesign.ru/">CUBA</a></div>
+                </div>
+            </section>
+        </footer>
+        <div class="modal ModalBase"></div>
+    </div>
+    <script src="assets/js/jquery.min.js" defer></script>
+    <script src="assets/ui/jquery-ui.js" defer></script>
+    <script src="assets/air-datepicker/dist/js/datepicker.min.js" defer></script>
+    <script src="assets/js/script.js" defer></script>
+</body>
+
+</html>
