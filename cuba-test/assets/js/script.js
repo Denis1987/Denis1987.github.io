@@ -149,20 +149,5 @@ $(document).ready(function () {
         concatResult()
     }
 
-    valuePushSelect('client__date-info');
-
-    console.log('test');
-
-    var clientMassage = function () {
-        console.log('test1');
-        var button = document.getElementById('comments__visit-btn btn');
-
-        button.onclick = function () {
-            console.log('test2');
-        };
-    }
-
-
-
     $('#datepicker-here').data('datepicker')
 });
