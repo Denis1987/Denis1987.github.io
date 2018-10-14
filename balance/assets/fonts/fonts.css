@@ -1,0 +1,34 @@
+@font-face {
+    font-family: 'Roboto';
+    src: url('assets/fonts/RobotoSlab-Regular.woff') format('opentype');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('assets/fonts/RobotoSlab-Thin.woff') format('opentype');
+    font-style: thin;
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('assets/fonts/RobotoSlab-Light.woff') format('opentype');
+    font-style: lighter;
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('assets/fonts/RobotoSlab-Bold.woff') format('opentype');
+    font-style: bold;
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Monserrat';
+    src: url('assets/fonts/Montserrat-SemiBold.otf') format('opentype');
+    font-style: bold;
+    font-weight: 600;
+}
