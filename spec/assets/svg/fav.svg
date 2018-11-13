@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#0B1E5E;}
+	.st1{fill:#F18B1B;}
+	.st2{filter:url(#filter-1);}
+</style>
+<filter  filterUnits="objectBoundingBox" height="100.0%" id="filter-1" width="100.0%" x="0.0%" y="0.0%">
+	<feGaussianBlur  in="SourceGraphic" stdDeviation="0"></feGaussianBlur>
+</filter>
+<title>fav</title>
+<desc>Created with Sketch.</desc>
+<g id="fav">
+	<rect id="Rectangle-6" class="st0" width="64" height="64"/>
+	<g id="Group-6" transform="translate(11.000000, 6.000000)">
+		<g id="Group-12">
+			<polygon id="Shape" class="st1" points="42.5,38 21.3,51.7 0,38 0,13.5 42.5,13.5 			"/>
+			<g id="Rectangle-path" class="st2">
+				<rect class="st1" width="42.5" height="8.6"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
