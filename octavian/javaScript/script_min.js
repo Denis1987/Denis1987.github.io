@@ -1,0 +1,1 @@
+"use strict";var presentationBefore=document.querySelector(".presentation_img_before"),popup=document.querySelector(".popup"),popupClose=document.querySelector(".popup_close");presentationBefore.addEventListener("click",function(e){popup.classList.add("popup_show")}),popupClose.addEventListener("click",function(e){popup.classList.remove("popup_show")});
